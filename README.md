@@ -1,6 +1,7 @@
 # email-marketing-con-Flujogramas-y-Automatizaci-n
 
-Temario: 
+Temario:
+
 • Fundamentos de Flujogramas en Email Marketing
 • Ejemplos de Flujogramas
 • Automatización en Email Marketing 
